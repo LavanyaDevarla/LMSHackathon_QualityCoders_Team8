@@ -1,0 +1,1 @@
+{"uuid":"784a5a1c-24d0-4ed9-b593-b6a10615b2c3","name":"Scenario: Validating  LogOut Button","children":["95af9bdf-3d37-49b7-b5e8-96d17f86f002"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748833822,"stop":1669748833822}],"afters":[],"start":1669748833821,"stop":1669748833828}

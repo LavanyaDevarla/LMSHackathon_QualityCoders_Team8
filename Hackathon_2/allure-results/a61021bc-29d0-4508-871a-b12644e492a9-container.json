@@ -1,0 +1,1 @@
+{"uuid":"a61021bc-29d0-4508-871a-b12644e492a9","name":"Scenario: Validate verifiction code","children":["01c79b70-f5b4-4bb0-b899-1e921c97c9e6"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748833067,"stop":1669748833070}],"afters":[],"start":1669748833067,"stop":1669748833072}

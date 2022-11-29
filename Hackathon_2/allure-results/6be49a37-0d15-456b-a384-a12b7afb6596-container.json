@@ -1,0 +1,1 @@
+{"uuid":"6be49a37-0d15-456b-a384-a12b7afb6596","name":"Scenario: Verify Deleted Batch Names","children":["52cdfd0f-3272-4ec2-a0f4-6adf9c662543"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748830574,"stop":1669748830574}],"afters":[],"start":1669748830574,"stop":1669748830576}

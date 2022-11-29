@@ -1,0 +1,1 @@
+{"uuid":"92592d00-e346-4438-b1b1-465cc547ed2a","name":"Scenario: Validates the login url","children":["129ec61c-ad72-4782-873c-124e38f307c2"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748833146,"stop":1669748833146}],"afters":[],"start":1669748833145,"stop":1669748833151}

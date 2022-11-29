@@ -1,0 +1,1 @@
+{"uuid":"60c9c0fa-caff-46bb-ba2f-6a871331db07","name":"Scenario: Validating Postal Code","children":["1df12445-af24-4fde-ad55-4812dabc8bd0"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748841210,"stop":1669748841210}],"afters":[],"start":1669748841209,"stop":1669748841215}

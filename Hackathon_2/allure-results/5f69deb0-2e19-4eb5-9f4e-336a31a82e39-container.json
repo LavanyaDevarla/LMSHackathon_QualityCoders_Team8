@@ -1,0 +1,1 @@
+{"uuid":"5f69deb0-2e19-4eb5-9f4e-336a31a82e39","name":"Scenario: Validating the Phone number","children":["d2d5f4d9-f86d-48fe-9cf5-22606f3c7344"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748841150,"stop":1669748841151}],"afters":[],"start":1669748841150,"stop":1669748841154}

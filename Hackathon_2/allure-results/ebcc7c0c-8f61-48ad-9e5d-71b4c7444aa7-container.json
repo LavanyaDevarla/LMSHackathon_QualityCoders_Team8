@@ -1,0 +1,1 @@
+{"uuid":"ebcc7c0c-8f61-48ad-9e5d-71b4c7444aa7","name":"Scenario: Validate landing in Manage page","children":["a36a287a-f93b-48fa-8b7b-d2374c2cedd0"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748839444,"stop":1669748839444}],"afters":[],"start":1669748839444,"stop":1669748839457}

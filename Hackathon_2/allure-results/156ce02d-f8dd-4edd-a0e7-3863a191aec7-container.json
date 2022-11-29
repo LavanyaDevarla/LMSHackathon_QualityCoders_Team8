@@ -1,0 +1,1 @@
+{"uuid":"156ce02d-f8dd-4edd-a0e7-3863a191aec7","name":"Scenario: Enters the City field","children":["2f9e3892-91b8-400b-821c-b7ef59f60a58"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748838485,"stop":1669748838485}],"afters":[],"start":1669748838485,"stop":1669748838495}

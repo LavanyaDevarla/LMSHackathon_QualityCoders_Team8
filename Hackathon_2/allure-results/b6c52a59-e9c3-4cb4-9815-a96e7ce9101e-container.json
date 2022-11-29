@@ -1,0 +1,1 @@
+{"uuid":"b6c52a59-e9c3-4cb4-9815-a96e7ce9101e","name":"Scenario: Enter Valid UserName","children":["653c7016-9dc6-4c68-a737-35ed40403e72"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748838730,"stop":1669748838730}],"afters":[],"start":1669748838730,"stop":1669748838745}

@@ -1,0 +1,1 @@
+{"uuid":"08e1e7ba-76aa-4897-959e-8a0e2cc6ff24","name":"Scenario: Login with valid credentials","children":["7e6fc8b5-776b-4617-94c8-2d7c738ee1e9"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748833474,"stop":1669748833476}],"afters":[],"start":1669748833474,"stop":1669748833480}

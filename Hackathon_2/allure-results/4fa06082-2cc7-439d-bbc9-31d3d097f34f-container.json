@@ -1,0 +1,1 @@
+{"uuid":"4fa06082-2cc7-439d-bbc9-31d3d097f34f","name":"Scenario: Staff clicks delete button","children":["86549ec8-853f-4f40-84f6-29d8204b5415"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748824664,"stop":1669748824664}],"afters":[],"start":1669748824661,"stop":1669748824668}

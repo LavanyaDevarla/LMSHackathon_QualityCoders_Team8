@@ -1,0 +1,1 @@
+{"uuid":"3ee9ef6c-beb4-4067-ac24-fe5f4111d5e8","name":"Scenario: Selects the State field","children":["4f5ec7e8-0736-42ab-8752-bcfb249de194"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748838526,"stop":1669748838526}],"afters":[],"start":1669748838525,"stop":1669748838551}

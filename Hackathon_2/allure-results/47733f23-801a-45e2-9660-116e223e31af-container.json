@@ -1,0 +1,1 @@
+{"uuid":"47733f23-801a-45e2-9660-116e223e31af","name":"Scenario: Validating Assignment Footer","children":["6f6957bd-99d0-44f2-9fc8-027e23f216c7"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748825420,"stop":1669748825420}],"afters":[],"start":1669748825419,"stop":1669748826207}

@@ -1,0 +1,1 @@
+{"uuid":"e2ec3703-abc8-41a0-90aa-b2d78f45b2d2","name":"Scenario: Enters the Zip field","children":["b0476fe2-0102-4386-b262-e8eac04f4fb7"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748838448,"stop":1669748838448}],"afters":[],"start":1669748838448,"stop":1669748838458}

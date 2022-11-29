@@ -1,0 +1,1 @@
+{"uuid":"836a938c-b114-4d86-872b-798daf34663b","name":"Scenario: Validates Edit button","children":["3b7bc451-27a4-46c2-be0b-0011bfb3be61"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748832446,"stop":1669748832446}],"afters":[],"start":1669748832445,"stop":1669748832450}

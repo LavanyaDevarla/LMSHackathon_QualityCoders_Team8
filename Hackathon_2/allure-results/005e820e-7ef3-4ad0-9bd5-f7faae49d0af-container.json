@@ -1,0 +1,1 @@
+{"uuid":"005e820e-7ef3-4ad0-9bd5-f7faae49d0af","name":"Scenario: Validating table footer","children":["035486a9-42b4-4db5-b995-6d6ee827a293"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748839563,"stop":1669748839563}],"afters":[],"start":1669748839562,"stop":1669748839566}

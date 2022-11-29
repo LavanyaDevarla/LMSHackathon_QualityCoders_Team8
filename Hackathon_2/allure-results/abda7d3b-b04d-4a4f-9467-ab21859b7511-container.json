@@ -1,0 +1,1 @@
+{"uuid":"abda7d3b-b04d-4a4f-9467-ab21859b7511","name":"Scenario: Check box in table header","children":["37e11b14-257d-4106-937a-f49eb6a0a6ef"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748839812,"stop":1669748839812}],"afters":[],"start":1669748839811,"stop":1669748839815}

@@ -1,0 +1,1 @@
+{"uuid":"dd1ad79c-de92-45ff-a6ce-4310952c9b20","name":"Scenario: Enter Valid Email","children":["e32b1f8c-a29f-415c-9a46-7e5292aa0f10"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748838777,"stop":1669748838777}],"afters":[],"start":1669748838777,"stop":1669748838791}

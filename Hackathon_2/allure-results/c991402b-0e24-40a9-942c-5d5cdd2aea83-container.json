@@ -1,0 +1,1 @@
+{"uuid":"c991402b-0e24-40a9-942c-5d5cdd2aea83","name":"Scenario: Admin clicks Assignment Name","children":["d0aa5a79-e85d-4584-95ad-74225200751f"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748824350,"stop":1669748824350}],"afters":[],"start":1669748824349,"stop":1669748824354}

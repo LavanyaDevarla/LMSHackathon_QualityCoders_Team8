@@ -1,0 +1,1 @@
+{"uuid":"feacfe7a-e0e2-4a3e-8c72-4add1f1c4acc","name":"Scenario: Validating the Email address","children":["cb54b8fa-b86a-46a4-9842-b6928692b60f"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748841037,"stop":1669748841037}],"afters":[],"start":1669748841036,"stop":1669748841042}

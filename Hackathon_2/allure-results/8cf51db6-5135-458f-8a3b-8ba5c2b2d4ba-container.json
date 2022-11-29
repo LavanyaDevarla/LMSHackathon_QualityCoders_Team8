@@ -1,0 +1,1 @@
+{"uuid":"8cf51db6-5135-458f-8a3b-8ba5c2b2d4ba","name":"Scenario: Validate Deleted Program Name","children":["39d1ee83-dd1e-4f58-8b6d-5cb8c6a288f9"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748830302,"stop":1669748830303}],"afters":[],"start":1669748830302,"stop":1669748830305}

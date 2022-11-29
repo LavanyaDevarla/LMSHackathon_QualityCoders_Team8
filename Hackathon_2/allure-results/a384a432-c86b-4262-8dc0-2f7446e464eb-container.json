@@ -1,0 +1,1 @@
+{"uuid":"a384a432-c86b-4262-8dc0-2f7446e464eb","name":"Scenario: Enter the Phone Number","children":["7d323ec5-f699-40de-ad53-d9a97ebfe0ec"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748838584,"stop":1669748838584}],"afters":[],"start":1669748838583,"stop":1669748838596}

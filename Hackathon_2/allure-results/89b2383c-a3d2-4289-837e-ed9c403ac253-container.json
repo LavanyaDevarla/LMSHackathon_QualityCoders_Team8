@@ -1,0 +1,1 @@
+{"uuid":"89b2383c-a3d2-4289-837e-ed9c403ac253","name":"Scenario: Validate Search Feature","children":["5d8eae74-6e0f-4b57-84eb-7675b69423d2"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748830631,"stop":1669748830631}],"afters":[],"start":1669748830628,"stop":1669748832150}

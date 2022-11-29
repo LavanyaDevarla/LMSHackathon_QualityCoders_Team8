@@ -1,0 +1,1 @@
+{"uuid":"7ce8d502-ec9b-4b37-a5f7-31508b62d96a","name":"Scenario: Search by Batch Status","children":["9943550d-ae3a-4148-ae74-15f3907b5dae"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748832252,"stop":1669748832252}],"afters":[],"start":1669748832252,"stop":1669748832259}

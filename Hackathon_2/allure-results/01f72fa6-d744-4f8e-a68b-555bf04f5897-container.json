@@ -1,0 +1,1 @@
+{"uuid":"01f72fa6-d744-4f8e-a68b-555bf04f5897","name":"Scenario: Verify Delete Functionality","children":["4a1bfff5-577f-46c8-bc0e-63ac8ec02352"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748830269,"stop":1669748830269}],"afters":[],"start":1669748830268,"stop":1669748830272}

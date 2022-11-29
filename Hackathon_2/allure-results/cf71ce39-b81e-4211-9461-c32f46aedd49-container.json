@@ -1,0 +1,1 @@
+{"uuid":"cf71ce39-b81e-4211-9461-c32f46aedd49","name":"Scenario: Admin clicks delete button","children":["f792c121-bfda-45ae-9a4c-f5811ad3d02a"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748824772,"stop":1669748824772}],"afters":[],"start":1669748824771,"stop":1669748824775}

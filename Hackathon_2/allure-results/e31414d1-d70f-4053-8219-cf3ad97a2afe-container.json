@@ -1,0 +1,1 @@
+{"uuid":"e31414d1-d70f-4053-8219-cf3ad97a2afe","name":"Scenario: validate New assignment","children":["2e2fbdb7-4afb-48e3-b3fe-fa5273a1519d"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748823957,"stop":1669748823958}],"afters":[],"start":1669748823956,"stop":1669748823965}

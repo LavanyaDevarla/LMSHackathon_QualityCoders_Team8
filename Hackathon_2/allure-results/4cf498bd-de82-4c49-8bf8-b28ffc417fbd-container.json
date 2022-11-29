@@ -1,0 +1,1 @@
+{"uuid":"4cf498bd-de82-4c49-8bf8-b28ffc417fbd","name":"Scenario: Adding new User","children":["52c76ba1-36f1-4507-a965-253051483c76"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748840955,"stop":1669748840955}],"afters":[],"start":1669748840954,"stop":1669748840957}

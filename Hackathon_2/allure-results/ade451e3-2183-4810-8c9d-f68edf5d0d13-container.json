@@ -1,0 +1,1 @@
+{"uuid":"ade451e3-2183-4810-8c9d-f68edf5d0d13","name":"Scenario: Functionality of Cancel(x) icon","children":["d245f301-0a98-40f5-9737-3ab056d9a545"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748840609,"stop":1669748840609}],"afters":[],"start":1669748840609,"stop":1669748840614}

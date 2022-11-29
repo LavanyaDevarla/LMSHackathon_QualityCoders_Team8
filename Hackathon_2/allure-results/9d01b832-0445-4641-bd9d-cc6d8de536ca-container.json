@@ -1,0 +1,1 @@
+{"uuid":"9d01b832-0445-4641-bd9d-cc6d8de536ca","name":"Scenario: Validating Assignment Paginator","children":["3bab0062-3dea-4d91-8f19-8589806f4196"],"befores":[{"name":"StepDiFinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1669748826245,"stop":1669748826245}],"afters":[],"start":1669748826243,"stop":1669748827143}
